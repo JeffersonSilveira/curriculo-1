@@ -13,9 +13,11 @@ C++ - Go - Rust - Haskell - Python
     - Escreveu uma biblioteca Windows que usa drivers filtro para interceptar dispositivos de entrada.
     - Uma peça de software bem particular que foi portada para outras linguagens pela comunidade e que teve algumas licenças comerciais obtidas.
     - Este é um projeto antigo. Atualmente, meu interesse no ambiente Windows é baixo.
-* [oblitum/YouCompleteMe](http://github.com/oblitum/YouCompleteMe)
-    - Atualmente estou mantendo dois forks do projeto YouCompleteMe para suportar _completion_ de argumentos.
-    - O [último](https://github.com/Valloric/YouCompleteMe/pull/1300) requer melhorias à base de código do clang, as quais já foram propostas.
+* [Clang](http://github.com/Clang) : Live at [better completion for c++](http://nosubstance.me/articles/2015-01-29-better-completion-for-cpp/)
+    - Alterou o Clang para obter melhor _code completion_ de C++ para ferramentas de autoria de código.
+    - Estas mudanças foram bem revisadas e aceitas por bons engenheiros.
+* [oblitum/YouCompleteMe](http://github.com/oblitum/YouCompleteMe) : Live at [oblitum/YouCompleteMe](https://github.com/oblitum/YouCompleteMe/)
+    - Atualmente mantêm um fork do projeto YouCompleteMe para suportar _code completion_ de argumentos.
     - YouCompleteMe é um projeto conhecido por oferecer sugestões _fuzzy_ de _completion_ no editor Vim.
 
 ### Habilidades Técnicas
@@ -61,7 +63,7 @@ Técnico | Processamento de Dados | ETE Lauro Gomes | 2004
 
 ### Outros Projetos Pessoais
 * patches, bugs, projetos, opiniões, etc (escolhidos a esmo)
-    - [implementation for completion in call context for C++](http://lists.cs.uiuc.edu/pipermail/cfe-dev/2015-January/040736.html)
+    - [implementation for completion in call context for C++](http://reviews.llvm.org/D6880)
     - [circular header inclusion dependency in boost.math   ](https://svn.boost.org/trac/boost/ticket/7999)
     - [C &amp; C++ Brazil comunity's web site revamp        ](http://ccppbrasil.github.io/about/)
     - [libclang python interface optimization               ](http://lists.cs.uiuc.edu/pipermail/cfe-commits/Week-of-Mon-20120813/062759.html)
