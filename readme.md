@@ -57,7 +57,7 @@ Técnico | Informática | ETE Lauro Gomes | 2003
     - Desenvolvimento de jogos com Director/lingo e Flash/ActionScript 3.
     - Realização de pequenos projetos com Assembly (aplicação envolvendo Microchip PIC, comunicação RS232 e criptografia), C# (Microsoft .NET Framework; Comunicação com sistema embarcado), C++ (Macromedia Open Architecture, tecnologia baseada em COM para desenvolver extensões shockwave).
     - Técnologias usadas: `Shockwave` `Lingo` `Flash` `ActionScript 3` `C#` `PIC` `Assembly` `C++` 
-* Freelancer, Freelancer (1/2004 – 7/2005)
+* Freelancer,  (1/2004 – 7/2005)
     - Ajudando meu professor de C++ na correção de provas, produção de material didático java e programação em _Mathematica_ para Mestrado em Engenharia Elétrica.
     - Técnologias usadas: `Mathematica` `Java` `C++` `C` 
 

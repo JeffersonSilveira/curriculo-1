@@ -80,6 +80,7 @@ Temporary Items
 *.vrb
 *.xdy
 *.tdo
+*.fls
 
 # Project specific
 resume.md
