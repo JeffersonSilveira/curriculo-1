@@ -31,8 +31,8 @@ C++ - Go - Rust - Haskell - Python
 ### Educação
  Grau | Curso | Instituição | Ano de Graduação
 :--:|:--:|:--:|:--:
-Técnico | Mecatrônica | SENAI Armando Arruda Pereira | 2006
-Técnico | Processamento de Dados | ETE Lauro Gomes | 2004
+Técnico | Mecatrônica | SENAI Armando Arruda Pereira | 2005
+Técnico | Informática | ETE Lauro Gomes | 2003
 
 
 ### Experiência Profissional
